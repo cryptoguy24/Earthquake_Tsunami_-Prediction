@@ -1,5 +1,3 @@
-Here is a short, concise version of your `README.md` file.
-
 -----
 
 # 🌊 Earthquake & Tsunami Prediction Model
